@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-download-base-url: https://raw.githubusercontent.com/<user_name>/<repo_name>/main
+-- fastn.package: heulitig.github.io/dummy-repo-2
+download-base-url: https://raw.githubusercontent.com/heulitig/dummy-repo-2/main
 
 -- fastn.dependency: fifthtry.github.io/doc-site as ds
 
